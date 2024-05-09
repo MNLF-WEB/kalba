@@ -1,2 +1,2 @@
 # kalba
-Project for
+Project for CSAL
